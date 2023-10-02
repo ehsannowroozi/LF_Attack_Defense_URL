@@ -6,6 +6,9 @@ Authors: [Ehsan Nowroozi](https://scholar.google.com/citations?user=C0bNkP8AAAAJ
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details. You should have received a copy of the GNU General Public License along with this program. If not, see <http://www.gnu.org/licenses/>.
 
+# Access 
+To retrieve the password for the code, kindly reach out to the corresponding author by sending an email to ehsan.nowroozi65@gmail.com
+
 ---
 #  Introduction:
 In the modern digital age, identifying malicious URLs is vital for protecting individuals and systems from online threats. However, because we rely more on Machine Learning (ML) for these tasks, they become vulnerable to covert attacks such as Label Flipping (LF). Such attacks can cause misclassifications, emphasizing the need for built-in defence strategies in ML models. This research delves into backdoor attacks on URL detection via ensemble trees, shedding light on the attackers' motives and the significance of robust defense methods. We introduced a system to spot tainted labels and a defense approach to reveal true labels, aiming to lessen the effects of these attacks. Our tests show that these covert attacks can trick the system, but with our defense, accuracy is restored.
